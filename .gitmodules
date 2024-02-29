@@ -1,0 +1,3 @@
+[submodule "odoo-terraform"]
+	path = odoo-terraform
+	url = https://github.com/jortdevreeze/odoo-terraform.git
