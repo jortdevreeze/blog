@@ -1,6 +1,8 @@
 [submodule "odoo-terraform"]
 	path = odoo-terraform
 	url = https://github.com/jortdevreeze/odoo-terraform.git
+	branch = main
 [submodule "extending-modules"]
 	path = extending-modules
 	url = https://github.com/jortdevreeze/extending-modules.git
+	branch = main
