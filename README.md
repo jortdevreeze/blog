@@ -14,7 +14,7 @@ An Odoo module that extends partner functionality with birthday tracking and aut
 - Includes filtering capabilities to find partners with birthdays
 
 **Technologies:** Python, Odoo Framework, XML views  
-**Blog Post:** [A step-by-step guide to extending Odoo modules](https://jortdevreeze.com)
+**Blog Post:** [A step-by-step guide to extending Odoo modules](https://jortdevreeze.com/blog/odoo-2/a-step-by-step-guide-to-extending-odoo-modules-15)
 
 ### odoo-terraform
 Infrastructure as Code setup for deploying Odoo servers on DigitalOcean cloud infrastructure.
